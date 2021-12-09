@@ -11,6 +11,13 @@
   color: #8f8f8f;
 }
 
+.headingSection {
+  font-size: 1.2rem;
+  line-height: 1.4;
+  font-weight: 400;
+  padding-bottom: 1.25rem;
+}
+
 .headingLg {
   font-size: 1.5rem;
   line-height: 1.4;
@@ -21,7 +28,11 @@
   line-height: 1.5;
   font-weight: 400;
   margin: 0;
-  padding: 2rem 0;
+  padding: 4rem 0 0 0;
+}
+
+.columns {
+  display: flex;
 }
 
 .borderCircle {
@@ -49,8 +60,17 @@
   margin: 0;
 }
 
+.column {
+  padding-right: 4rem;
+}
+
 .listItem {
   margin: 0 0 1.25rem;
+}
+
+.listItemSubdued {
+  margin: 0 0 1.25rem;
+  color: #8f8f8f;
 }
 
 .lightText {

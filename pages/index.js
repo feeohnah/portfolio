@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
-import Date from '../components/date'
 import utilStyles from '../styles/utils.module.css'
 import { getSortedProjectsData } from '../lib/projects'
 
@@ -38,34 +37,45 @@ export default function Home({ allProjectsData }) {
         </p>
       </section>
       <section className={utilStyles.headingMd}>
-        <h2 className={utilStyles.headingLg}>Contact</h2>
-        <ul className={utilStyles.list}>
-          <li className={utilStyles.listItem}>
-            <Link href={`mailto:mcdougaf@gmail.com`}>
-              <a>Email</a>
-            </Link>
-          </li>
-          <li className={utilStyles.listItem}>
-            <Link
-              href={`https://www.linkedin.com/in/fiona-mcdougall-a64a5412/`}
-            >
-              <a>LinkedIn</a>
-            </Link>
-          </li>
-        </ul>
+        <h2 className={utilStyles.headingSection}>Contact</h2>
+        <div className={utilStyles.columns}>
+          <ul className={`${utilStyles.list} ${utilStyles.column}`}>
+            <li className={utilStyles.listItemSubdued}>Email</li>
+            <li className={utilStyles.listItemSubdued}>LinkedIn</li>
+          </ul>
+          <ul className={`${utilStyles.list} ${utilStyles.column}`}>
+            <li className={utilStyles.listItem}>
+              <Link href={`mailto:mcdougaf@gmail.com`}>
+                <a>mcdougaf@gmail.com</a>
+              </Link>
+            </li>
+            <li className={utilStyles.listItem}>
+              <Link href={`https://www.linkedin.com/in/fimcd`}>
+                <a>@fimcd</a>
+              </Link>
+            </li>
+          </ul>
+        </div>
       </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Projects</h2>
+      <section className={utilStyles.headingMd}>
+        <h2 className={utilStyles.headingSection}>Projects</h2>
         <ul className={utilStyles.list}>
-          {allProjectsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
+          {allProjectsData.map(({ id, description, roles, title }) => (
+            <li
+              className={`${utilStyles.heading1} ${utilStyles.listItem}`}
+              key={id}
+            >
               <Link href={`/projects/${id}`}>
                 <a>{title}</a>
               </Link>
+              :{` `}
+              {description}
               <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
+              <h2
+                className={`${utilStyles.heading2} ${utilStyles.listItemSubdued}`}
+              >
+                {roles}
+              </h2>
             </li>
           ))}
         </ul>

@@ -28,9 +28,13 @@ export default function Project({ projectData }) {
         <title>{projectData.title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{projectData.title}</h1>
+        <h1 className={utilStyles.heading1}>{projectData.title}</h1>
         <div className={utilStyles.lightText}>
-          <Date dateString={projectData.date} />
+          <h2 className={utilStyles.heading2}>
+            {projectData.description}
+            <br />
+            {projectData.roles}
+          </h2>
         </div>
         <div dangerouslySetInnerHTML={{ __html: projectData.contentHtml }} />
       </article>
