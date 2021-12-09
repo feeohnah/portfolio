@@ -3,18 +3,18 @@ import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
 import Date from '../components/date'
 import utilStyles from '../styles/utils.module.css'
-import { getSortedPostsData } from '../lib/posts'
+import { getSortedProjectsData } from '../lib/projects'
 
 export async function getStaticProps() {
-  const allPostsData = getSortedPostsData()
+  const allProjectsData = getSortedProjectsData()
   return {
     props: {
-      allPostsData,
+      allProjectsData,
     },
   }
 }
 
-export default function Home({ allPostsData }) {
+export default function Home({ allProjectsData }) {
   return (
     <Layout home>
       <Head>
@@ -22,10 +22,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          A Canadian designer currently based in Berlin. I create everything
-          from brands to apps for good-doing people and companies — those who
-          positively impact society, culture or the environment. I’m also the
-          co-founder and creator of{' '}
+          I’m a freelance designer with over 12 years of experience in brand and
+          product design. I enjoy working with people and companies who are
+          doing good things for society, culture or the environment. I’m also
+          the co-founder and creator of{' '}
           <Link href="https://fondfolio.com/">
             <a>Fondfolio</a>
           </Link>{' '}
@@ -33,28 +33,33 @@ export default function Home({ allPostsData }) {
           <Link href="https://pawzzles.cat/">
             <a>Pawzzles</a>
           </Link>{' '}
-          — handmade puzzles for cats (using offcuts from the books). When I’m
-          not working I enjoy being in nature, whether that’s camping, foraging,
-          cycling, or sitting in a park. I also like to read, write, dance,
-          cuddle with{' '}
-          <Link href="https://www.instagram.com/minoupeenu/">
-            <a>my cat</a>
-          </Link>
-          , and ferment — mostly water kefir and tempeh.
-        </p>
-        <p>
-          Read{' '}
-          <Link href="/posts/first-post">
-            <a>this page!</a>
-          </Link>
+          — handmade puzzles for cats (using offcuts from the books). So I’m
+          either designing, making books or cat toys :)
         </p>
       </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+      <section className={utilStyles.headingMd}>
+        <h2 className={utilStyles.headingLg}>Contact</h2>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
+          <li className={utilStyles.listItem}>
+            <Link href={`mailto:mcdougaf@gmail.com`}>
+              <a>Email</a>
+            </Link>
+          </li>
+          <li className={utilStyles.listItem}>
+            <Link
+              href={`https://www.linkedin.com/in/fiona-mcdougall-a64a5412/`}
+            >
+              <a>LinkedIn</a>
+            </Link>
+          </li>
+        </ul>
+      </section>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <h2 className={utilStyles.headingLg}>Projects</h2>
+        <ul className={utilStyles.list}>
+          {allProjectsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
+              <Link href={`/projects/${id}`}>
                 <a>{title}</a>
               </Link>
               <br />

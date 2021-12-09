@@ -5,7 +5,9 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Fiona McDougall'
-export const siteTitle = 'Next.js Sample Website'
+const role = 'Designer & Bookmaker'
+const location = 'Berlin'
+export const siteTitle = 'Selected work 2016 - 2021'
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +16,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Selected design work of Fiona McDougall 2016 - 2021"
         />
         <meta
           property="og:image"
@@ -28,35 +30,51 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
+            <div>
+              <h1 className={utilStyles.heading1}>{name}</h1>
+              <h2 className={utilStyles.heading2}>
+                {role}
+                <br />
+                {location}
+              </h2>
+            </div>
             <Image
               priority
               src="/images/profile.jpg"
-              className={utilStyles.borderCircle}
-              height={144}
-              width={144}
+              className={utilStyles.profileImage}
+              height={88}
+              width={88}
               alt={name}
+              layout="fixed"
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
         ) : (
           <>
+            <div>
+              <h2 className={utilStyles.heading2}>
+                <Link href="/">
+                  <a className={utilStyles.colorInherit}>{name}</a>
+                </Link>
+              </h2>
+              <h3>
+                {role}
+                <br />
+                {location}
+              </h3>
+            </div>
             <Link href="/">
               <a>
                 <Image
                   priority
                   src="/images/profile.jpg"
-                  className={utilStyles.borderCircle}
-                  height={108}
-                  width={108}
+                  className={utilStyles.profileImage}
+                  height={40}
+                  width={40}
                   alt={name}
+                  layout="fixed"
                 />
               </a>
             </Link>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
-              </Link>
-            </h2>
           </>
         )}
       </header>
