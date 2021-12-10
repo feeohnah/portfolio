@@ -1,6 +1,6 @@
 ---
 title: 'Leftfield Brewery'
-description: 'Baseball-inspired brewers of distinct and flavourful craft beers.'
+description: 'Baseball-inspired brewers of flavourful craft beers.'
 roles: 'UI/UX Design, Branding, Packaging Design, Illustration'
 ---
 

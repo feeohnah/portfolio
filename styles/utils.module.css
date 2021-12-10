@@ -53,6 +53,10 @@
   display: flex;
 }
 
+.projectDescription {
+  font-family: 'FrancaBook';
+}
+
 .article {
   padding: 4rem 0 0 0;
 }
@@ -69,6 +73,7 @@
   position: relative;
   object-fit: cover;
   filter: grayscale(100%);
+  box-shadow: none;
 }
 
 .colorInherit {
@@ -91,6 +96,11 @@
 
 .listItem {
   margin: 0 0 1.25rem;
+}
+
+.roles {
+  padding-top: 4px;
+  line-height: 1.3rem;
 }
 
 .listItemSubdued {

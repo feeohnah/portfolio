@@ -33,7 +33,7 @@ export default function Home({ allProjectsData }) {
             <a>Pawzzles</a>
           </Link>{' '}
           — handmade puzzles for cats (using offcuts from the books). So I’m
-          either designing, making books or cat toys :)
+          either designing, making books or building cat toys :)
         </p>
       </section>
       <section className={utilStyles.headingMd}>
@@ -71,12 +71,14 @@ export default function Home({ allProjectsData }) {
                 </Link>
               </div>
               <div>
-                {description}
+                <span className={utilStyles.projectDescription}>
+                  {description}
+                </span>
                 <br />
                 <h2
-                  className={`${utilStyles.heading2} ${utilStyles.listItemSubdued}`}
+                  className={`${utilStyles.heading2} ${utilStyles.listItemSubdued} ${utilStyles.roles}`}
                 >
-                  <small className={utilStyles.lightText}>{roles}</small>
+                  <small className={`${utilStyles.lightText}`}>{roles}</small>
                 </h2>
               </div>
             </li>

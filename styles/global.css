@@ -1,13 +1,37 @@
+@font-face {
+  font-family: 'FrancaBook';
+  src: url('/fonts/FrancaBook.woff');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FrancaBookItalic';
+  src: url('/fonts/FrancaBookItalic.woff');
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'FrancaBook', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
-  background-color: #343434;
-  color: white;
+  background-color: white;
+  color: #023020;
+  widows: 3;
+  orphans: 3;
+}
+
+blockquote {
+  font-family: 'FrancaBookItalic';
+  font-size: 24px;
+  padding-bottom: 2rem;
 }
 
 * {
@@ -19,6 +43,10 @@ a {
   text-decoration: underline;
 }
 
+p {
+  font-family: 'FrancaBook';
+}
+
 a:hover {
   text-decoration: none;
 }
@@ -26,14 +54,21 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+
+video {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
 }
 
 article p {
   padding: 0 0 1rem 0;
 }
 
-em {
-  font-size: 12px;
+.caption {
+  font-family: 'FrancaBook';
+  font-size: 13px;
+  line-height: 1.2rem;
 }
 
 h1,

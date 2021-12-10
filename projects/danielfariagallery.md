@@ -1,20 +1,18 @@
 ---
 title: 'Daniel Faria Gallery'
-description: 'Showcasing work from Canadian and international artists.'
+description: 'Showcasing work from contemporary Canadian and international artists.'
 roles: 'UI/UX Design, Web Development'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+Daniel wanted to update his website and create a responsive experience while maintaining a minimal aesthetic that prioritizes the work of his artists.
 
-You can use Static Generation for many types of pages, including:
+![Daniel Faria Gallery’s homepage showing a large image from the current exhibition.](/images/dfg/dfg-home.jpg)
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+![Exhibition page showing all the exhibitions in 3 columns with the ability to sort by year and artist.](/images/dfg/dfg-exhibitions.jpg)
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+![News page with the ability to sort by year and artist.](/images/dfg/dfg-news.jpg)
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+![Artists page with a list of all the artists that Daniel Faria Gallery represents. Hovering over the name of each artist on the left column reveals a large thumbnail of their featured work.](/images/dfg/dfg-artists-alt.jpg)
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+![A single artist page with the ability toggle between their work, cv and exhibitions.](/images/dfg/dfg-iris.jpg)
+<span class="caption">Various sections of the website on desktop.</span>

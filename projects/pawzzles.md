@@ -1,6 +1,6 @@
 ---
 title: 'Pawzzles'
-description: 'Wooden puzzles for cats that promote mental and physical activity and raise money for animal welfare initiatives.'
+description: 'Wooden puzzles for cats that promote mental and physical activity and raise money for animal welfare.'
 roles: 'Co-founder, Branding, Copywriting, Illustration, Product Design, Photography, Product Creation'
 ---
 

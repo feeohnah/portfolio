@@ -1,6 +1,6 @@
 ---
 title: 'Wonderproxy'
-description: 'A tool for reliable localization testing.'
+description: 'A handy tool for reliable localization testing.'
 roles: 'UI/UX Design, Branding'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Eli’s place'
-description: 'Canada’s first therapeutic farm for people with mental illness.'
+description: 'Canada’s first therapeutic farm supporting people who suffer from mental illness.'
 roles: 'UI/UX Design, Copywriting'
 ---
 

@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 const name = 'Fiona McDougall'
 const role = 'Designer & Bookmaker'
-const location = 'Berlin'
+const location = 'Berlin, Toronto'
 export const siteTitle = 'Selected work 2016 - 2021'
 
 export default function Layout({ children, home }) {
@@ -14,6 +14,18 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="preload"
+          href="/fonts/SuisseWorks-BookItalic-WebS.woff"
+          as="font"
+          crossOrigin=""
+        />
+        <link
+          rel="preload"
+          href="/fonts/SuisseWorks-Book-WebS.woff"
+          as="font"
+          crossOrigin=""
+        />
         <meta
           name="description"
           content="Selected design work of Fiona McDougall 2016 - 2021"

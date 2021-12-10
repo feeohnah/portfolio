@@ -1,20 +1,17 @@
 ---
 title: 'SOA & Friends'
 description: 'The imaginative jazz project of French vocalist and lyricist Chrystelle Maechler.'
-roles: 'Graphic Design'
+roles: 'Graphic Design, Illustration'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+Chrystelle commissioned me to create artwork for Influences — her 4-song EP with a vintage groovy jazz style. The brief was simple — the artwork should include a photo of Chrystelle and feel modern and playful with a warm, slightly-retro vibe. Smooth rounded shapes immediately came to mind. The deliverables included a square album cover as well as a banner design for promotional applications.
 
-You can use Static Generation for many types of pages, including:
+This was my first time designing an album cover and I was really happy with how it turned out. Thankfully so was Chrystelle 😅
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+<blockquote>“My Dear Fiona, I really have to say it again: GREAT work, well-executed, very nice creative interpretation of the brief. I really, really enjoyed the smooth and incredibly fast turnaround. Thank you!!”
+</blockquote>
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+![Mockup of a vinyl cover for the Influences album. The artwork is comprised of voluptuous pink and red shapes with a silhouette of Chrystelle in the center.](/images/soa/SOA-Cover-Final-Mockup.jpg)
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
-
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+![A banner version of the album artwork.](/images/soa/OA-Cover-Banner-Final-LG.jpg)
+<span class="caption">Cover and banner designs for the Influences EP.</span>

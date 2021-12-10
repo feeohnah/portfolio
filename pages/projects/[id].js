@@ -34,7 +34,9 @@ export default function Project({ projectData }) {
           <h2 className={utilStyles.heading2}>
             {projectData.description}
             <br />
-            <small className={utilStyles.lightText}>{projectData.roles}</small>
+            <small className={`${utilStyles.lightText} ${utilStyles.italic}`}>
+              {projectData.roles}
+            </small>
           </h2>
         </div>
         <div

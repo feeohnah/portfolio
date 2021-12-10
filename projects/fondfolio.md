@@ -1,6 +1,6 @@
 ---
 title: 'Fondfolio'
-description: 'Handmade books designed to preserve memories by collecting thoughtful words and stories from loved ones.'
+description: 'Handmade books designed to preserve memories by collecting thoughtful words from loved ones.'
 roles: 'Co-founder, Branding, Copywriting, UI/UX Design, Product Design, Photography, Product Creation'
 ---
 
