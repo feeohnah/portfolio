@@ -51,16 +51,16 @@ export default function Layout({ children, home }) {
         ) : (
           <>
             <div>
-              <h2 className={utilStyles.heading2}>
+              <h1 className={utilStyles.heading3}>
                 <Link href="/">
                   <a className={utilStyles.colorInherit}>{name}</a>
                 </Link>
-              </h2>
-              <h3>
+              </h1>
+              <h2 className={utilStyles.heading4}>
                 {role}
                 <br />
                 {location}
-              </h3>
+              </h2>
             </div>
             <Link href="/">
               <a>
@@ -68,8 +68,8 @@ export default function Layout({ children, home }) {
                   priority
                   src="/images/profile.jpg"
                   className={utilStyles.profileImage}
-                  height={40}
-                  width={40}
+                  height={48}
+                  width={48}
                   alt={name}
                   layout="fixed"
                 />
@@ -82,7 +82,7 @@ export default function Layout({ children, home }) {
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">
-            <a>← Back to home</a>
+            <a>← Back home</a>
           </Link>
         </div>
       )}

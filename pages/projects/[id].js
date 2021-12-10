@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Date from '../../components/date'
 import Layout from '../../components/layout'
 import { getAllProjectIds, getProjectData } from '../../lib/projects'
 import utilStyles from '../../styles/utils.module.css'
@@ -27,16 +26,21 @@ export default function Project({ projectData }) {
       <Head>
         <title>{projectData.title}</title>
       </Head>
-      <article>
-        <h1 className={utilStyles.heading1}>{projectData.title}</h1>
+      <article className={utilStyles.article}>
+        <h1 className={utilStyles.heading1}>
+          {projectData.title}: {projectData.dates}
+        </h1>
         <div className={utilStyles.lightText}>
           <h2 className={utilStyles.heading2}>
             {projectData.description}
             <br />
-            {projectData.roles}
+            <small className={utilStyles.lightText}>{projectData.roles}</small>
           </h2>
         </div>
-        <div dangerouslySetInnerHTML={{ __html: projectData.contentHtml }} />
+        <div
+          className={utilStyles.articleContent}
+          dangerouslySetInnerHTML={{ __html: projectData.contentHtml }}
+        />
       </article>
     </Layout>
   )

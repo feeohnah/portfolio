@@ -28,6 +28,14 @@ img {
   display: block;
 }
 
+article p {
+  padding: 0 0 1rem 0;
+}
+
+em {
+  font-size: 12px;
+}
+
 h1,
 h2,
 p {
