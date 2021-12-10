@@ -1,7 +1,7 @@
 ---
 title: 'Fondfolio'
 description: 'Handmade books designed to preserve memories by collecting thoughtful words and stories from loved ones.'
-roles: 'Co-founder, Branding, Product Design and all the other hats'
+roles: 'Co-founder, Branding, Copywriting, UI/UX Design, Product Design, Photography, Product Creation'
 ---
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.

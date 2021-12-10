@@ -32,6 +32,11 @@
 }
 
 .columns {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.projectItem {
   display: flex;
 }
 
@@ -61,7 +66,7 @@
 }
 
 .column {
-  padding-right: 4rem;
+  flex-basis: 12rem;
 }
 
 .listItem {
@@ -74,5 +79,5 @@
 }
 
 .lightText {
-  color: #666;
+  color: #8f8f8f;
 }

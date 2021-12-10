@@ -62,20 +62,23 @@ export default function Home({ allProjectsData }) {
         <ul className={utilStyles.list}>
           {allProjectsData.map(({ id, description, roles, title }) => (
             <li
-              className={`${utilStyles.heading1} ${utilStyles.listItem}`}
+              className={`${utilStyles.heading1} ${utilStyles.listItem} ${utilStyles.columns}`}
               key={id}
             >
-              <Link href={`/projects/${id}`}>
-                <a>{title}</a>
-              </Link>
-              :{` `}
-              {description}
-              <br />
-              <h2
-                className={`${utilStyles.heading2} ${utilStyles.listItemSubdued}`}
-              >
-                {roles}
-              </h2>
+              <div className={utilStyles.column}>
+                <Link href={`/projects/${id}`}>
+                  <a>{title}</a>
+                </Link>
+              </div>
+              <div>
+                {description}
+                <br />
+                <h2
+                  className={`${utilStyles.heading2} ${utilStyles.listItemSubdued}`}
+                >
+                  <small className={utilStyles.lightText}>{roles}</small>
+                </h2>
+              </div>
             </li>
           ))}
         </ul>

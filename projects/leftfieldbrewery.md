@@ -1,7 +1,7 @@
 ---
-title: 'Pawzzles'
-description: 'Wooden puzzles for cats that promote mental and physical activity and raise money for animal welfare initiatives.'
-roles: 'Co-founder, Branding, Copywriting, Illustration, Product Design, Photography, Product Creation'
+title: 'Leftfield Brewery'
+description: 'Baseball-inspired brewers of distinct and flavourful craft beers.'
+roles: 'UI/UX Design, Branding, Packaging Design, Illustration'
 ---
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.

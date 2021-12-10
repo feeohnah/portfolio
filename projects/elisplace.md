@@ -1,7 +1,7 @@
 ---
-title: 'Pawzzles'
-description: 'Wooden puzzles for cats that promote mental and physical activity and raise money for animal welfare initiatives.'
-roles: 'Co-founder, Branding, Copywriting, Illustration, Product Design, Photography, Product Creation'
+title: 'Eli’s place'
+description: 'Canada’s first therapeutic farm for people with mental illness.'
+roles: 'UI/UX Design, Copywriting'
 ---
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
