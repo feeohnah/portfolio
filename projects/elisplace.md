@@ -16,4 +16,4 @@ Eli’s Place wanted to bring more consistency to their online presence while ma
 
 ![Three mobile screens showing the navigation, homepage and FAQ page for elisplace.org.](/images/elisplace/EP-Mobile.jpg)
 
-<span class="caption">Desktop and mobile sections for the Eli’s Place website.</span>
+<p class="caption">Desktop and mobile sections for the Eli’s Place website.</p>

@@ -38,24 +38,26 @@ export default function Home({ allProjectsData }) {
       </section>
       <section className={utilStyles.headingMd}>
         <h2 className={utilStyles.headingSection}>Contact</h2>
-        <div className={utilStyles.columns}>
-          <ul className={`${utilStyles.list} ${utilStyles.column}`}>
-            <li className={utilStyles.listItemSubdued}>Email</li>
-            <li className={utilStyles.listItemSubdued}>LinkedIn</li>
-          </ul>
-          <ul className={`${utilStyles.list} ${utilStyles.column}`}>
-            <li className={utilStyles.listItem}>
-              <Link href={`mailto:mcdougaf@gmail.com`}>
-                <a>mcdougaf@gmail.com</a>
-              </Link>
-            </li>
-            <li className={utilStyles.listItem}>
-              <Link href={`https://www.linkedin.com/in/fimcd`}>
-                <a>@fimcd</a>
-              </Link>
-            </li>
-          </ul>
-        </div>
+        <ul className={`${utilStyles.list} ${utilStyles.columns}`}>
+          <li className={`${utilStyles.listItemSubdued} ${utilStyles.column}`}>
+            Email
+          </li>
+          <li className={`${utilStyles.listItem} ${utilStyles.column}`}>
+            <Link href={`mailto:mcdougaf@gmail.com`}>
+              <a>mcdougaf@gmail.com</a>
+            </Link>
+          </li>
+        </ul>
+        <ul className={`${utilStyles.list} ${utilStyles.columns}`}>
+          <li className={`${utilStyles.listItemSubdued} ${utilStyles.column}`}>
+            LinkedIn
+          </li>
+          <li className={`${utilStyles.listItem} ${utilStyles.column}`}>
+            <Link href={`https://www.linkedin.com/in/fimcd`}>
+              <a>@fimcd</a>
+            </Link>
+          </li>
+        </ul>
       </section>
       <section className={utilStyles.headingMd}>
         <h2 className={utilStyles.headingSection}>Projects</h2>

@@ -15,7 +15,9 @@ Daniel wanted to update his website and create a responsive experience while mai
 ![Artists page with a list of all the artists that Daniel Faria Gallery represents. Hovering over the name of each artist on the left column reveals a large thumbnail of their featured work.](/images/dfg/dfg-artists-alt.jpg)
 
 ![A single artist page with the ability toggle between their work, cv and exhibitions.](/images/dfg/dfg-iris.jpg)
-<span class="caption">Various sections of the website on desktop.</span>
+
+<p class="caption">Various sections of the website on desktop.</p>
 
 ![A single artist page with the ability toggle between their work, cv and exhibitions.](/images/dfg/dfg-mobile.jpg)
-<span class="caption">Various sections of the website on mobile.</span>
+
+<p class="caption">Various sections of the website on mobile.</p>

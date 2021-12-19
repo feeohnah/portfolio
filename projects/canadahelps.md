@@ -13,14 +13,17 @@ I’ve also created various assets such as icons, illustrations, and animations.
   <source src="/images/canadahelps/ch-animation-bear.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<span class="caption">One of several SVG animations for the Thank You message shown to users after they complete a donation.</span>
 </p>
+<p class="caption">One of several SVG animations for the Thank You message shown to users after they complete a donation.</p>
 
 ![Two banner designs for social media. In the first, the words Grow Your Charity’s online fundraising with CanadaHelps are surrounded by icons representing fundraising and technology. In the second banner the words Canada’s platform for donating and fundraising online are surrounded by icons representing fundraising.](/images/canadahelps/ch-illustration-1.png)
-<span class="caption">Banner designs for social media.</span>
+
+<p class="caption">Banner designs for social media.</p>
 
 ![A landing page design.](/images/canadahelps/ch-mainnav.png)
-<span class="caption">A concept for simplifying the main navigation on desktop.</span>
+
+<p class="caption">A concept for simplifying the main navigation on desktop.</p>
 
 ![Three mobile screens showing the first 3 steps of the donation process from the perspective of a donor user.](/images/canadahelps/cd-cdfWidget-2.png)
-<span class="caption">UI for the custom donation form widget used by charities to accept donations on any website.</span>
+
+<p class="caption">UI for the custom donation form widget used by charities to accept donations on any website.</p>

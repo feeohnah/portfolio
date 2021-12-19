@@ -19,8 +19,8 @@ This is not a money-making venture. We donate 10% of each sale to animal welfare
   <source src="/images/pawzzles/pawzzles-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<span class="caption">A Pawzzle in action, starring our beloved boy Minou.</span>
 </p>
+<p class="caption">A Pawzzle in action, starring our beloved boy Minou.</p>
 
 ![Riso printed postcards for each Pawzzle order](/images/pawzzles/pawzzles-postcard.jpg)
 
@@ -29,6 +29,7 @@ This is not a money-making venture. We donate 10% of each sale to animal welfare
 ![Riso printed postcards for each Pawzzle order](/images/pawzzles/pawzzles-website-2.png)
 
 ![Riso printed postcards for each Pawzzle order](/images/pawzzles/pawzzles-website-3.png)
-<span class="caption">Shots of our custom Shopify store.</span>
+
+<p class="caption">Shots of our custom Shopify store.</p>
 
 [Visit pawzzles.cat](https://pawzzles.cat/)

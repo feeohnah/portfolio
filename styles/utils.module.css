@@ -49,6 +49,13 @@
   grid-template-columns: 1fr 2fr;
 }
 
+@media (max-width: 425px) {
+  .columns {
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+  }
+}
+
 .projectItem {
   display: flex;
 }

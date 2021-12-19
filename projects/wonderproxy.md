@@ -4,17 +4,28 @@ description: 'A handy tool for reliable localization testing.'
 roles: 'UI/UX Design, Branding'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+Wonderproxy had a clear idea of who they were and the value they provided but needed a visual identity that communicated those values cohesively. I updated their logo and created a set of brand guidelines. I also created a starting set of supporting graphics and some initial website layouts.
 
-You can use Static Generation for many types of pages, including:
+<blockquote>“I'm so glad we found Fiona and were able to work with her to build our brand identity. Previously we’d worked with a series of designers, we were happy with their work (it looked good!) but things were never cohesive. Now we don't just have a great logo, we have an entire set of brand guidelines that can guide all our work, and allow more members of our team to build productively within it. Working with Fiona was a breeze, and I'm incredibly satisfied with what we built together. We'll be able to use it for years.”<br>
+— Paul Reinheimer, Co-founder Wonderproxy
+</blockquote>
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+![The Wonderproxy logo icon or “pin cloud” as we called it.](/images/wonderproxy/wp-logo-1.jpg)
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+![The Wonderproxy logo icon or “pin cloud” as we called it.](/images/wonderproxy/wp-logo-2.jpg)
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+<p class="caption">Sample pages from the brand guide.</p>
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+![Sticker mockup](/images/wonderproxy/wp-sticker.jpg)
+
+![Business card mockup for everyone.](/images/wonderproxy/wp-bcard-all.jpg)
+
+![Business card mockup for Paul.](/images/wonderproxy/wp-bcard-paul.jpg)
+
+![T-shirt mockup. Forest green t-shirt with the Wonderproxy Pin cloud icon in the center.](/images/wonderproxy/wp-tshirt.png)
+
+<p class="caption">Sample brand application mockups.</p>
+
+![Wonderproxy website design mockup. Homepage.](/images/wonderproxy/wp-website-home.png)
+
+<p class="caption">Sample landing page design and supporting graphics.</p>
