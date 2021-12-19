@@ -1,12 +1,28 @@
 ---
 title: 'Fondfolio'
-description: 'Handmade books designed to preserve memories by collecting thoughtful words from loved ones.'
+description: 'Handmade books designed to preserve memories by collecting thoughtful words and stories from loved ones.'
 roles: 'Co-founder, Branding, Copywriting, UI/UX Design, Product Design & Creation, Photography'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+When my friend Tyler turned 30, my partner Matt and I helped his wife collect words from all his friends and family and together we made a book. We expected it would be fun, but didn’t anticipate the delight it generated, not just for Tyler, but for everyone involved. This joyful experience was the inspiration for [Fondfolio](https://fondfolio.com/). Since our launch in 2015 our mission has been to facilitate meaningful gift giving for special moments and relationships.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+Fondfolio is a self-funded venture between myself and my partner [Matt](https://iammatt.ca/). He does most of the web development work and is deeply involved with the design as well as every little thing that I need a second opinion on. This project would not exist without his efforts.
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-book.jpg)
+
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-book-2.jpg)
+
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-book-3.jpg)
+<span class="caption">Some examples of the books we make. Each one is made to order by hand, including the custom slip case.</span>
+
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-app-2.png)
+
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-app-1.png)
+<span class="caption">Shots from our web app where users manage their Fondfolios.</span>
+
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-website-1.png)
+
+![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-website-2.png)
+<span class="caption">Shots from our marketing website.</span>
+
+[Visit fondfolio.com](https://fondfolio.com/)
