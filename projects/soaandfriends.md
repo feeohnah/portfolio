@@ -13,5 +13,5 @@ This was my first time designing an album cover and I was really happy with how 
 
 ![Mockup of a vinyl cover for the Influences album. The artwork is comprised of voluptuous pink and red shapes with a silhouette of Chrystelle in the center.](/images/soa/SOA-Cover-Final-Mockup.jpg)
 
-![A banner version of the album artwork.](/images/soa/OA-Cover-Banner-Final-LG.jpg)
+![A banner version of the album artwork.](/images/soa/SOA-Cover-Banner-Final-LG.jpg)
 <span class="caption">Cover and banner designs for the Influences EP.</span>

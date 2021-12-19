@@ -10,19 +10,19 @@ Fondfolio is a self-funded venture between myself and my partner [Matt](https://
 
 ![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-book.jpg)
 
-![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-book-2.jpg)
+![Two coptic-bound books one maple, one walnut lay on top of each other against a rose pink background.](/images/fondfolio/ff-book-2.jpg)
 
-![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-book-3.jpg)
+![A large maple coptic bound fondfolio book with a custom maple slip case sits against a pale yellow background. The book has red stitching.](/images/fondfolio/ff-book-3.jpg)
 <span class="caption">Some examples of the books we make. Each one is made to order by hand, including the custom slip case.</span>
 
-![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-app-2.png)
+![A screenshot from our web app showing the dashboard where users can see the Fondfolios they’ve created.](/images/fondfolio/ff-app-2.png)
 
-![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-app-1.png)
+![A screenshot from our web app showing the details edit screen where the title and questions of the Fondfolio can be updated.](/images/fondfolio/ff-app-1.png)
 <span class="caption">Shots from our web app where users manage their Fondfolios.</span>
 
-![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-website-1.png)
+![The homepage of our marketing website.](/images/fondfolio/ff-website-1.png)
 
-![One of our books, opened against a pale yellow background. The covers are made from walnut wood, the book is coptic bound with red stitching.](/images/fondfolio/ff-website-2.png)
+![A testimonial on the homepage of our marketing website.](/images/fondfolio/ff-website-2.png)
 <span class="caption">Shots from our marketing website.</span>
 
 [Visit fondfolio.com](https://fondfolio.com/)

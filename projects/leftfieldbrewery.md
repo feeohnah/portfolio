@@ -4,17 +4,32 @@ description: 'Baseball-inspired brewers of flavourful craft beers.'
 roles: 'UI/UX Design, Branding, Packaging Design, Illustration'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+Mark and Mandy Murphy approach Matt and I in 2013 to flesh out their branding, create product labels for their very first 3 beers and design and build a website. Over the years we designed more labels and created a custom Shopify store so they could start selling beer online — they were one of the first Breweries in Toronto to do so. We’re so happy to see how much Left Field has grown since then — enough to hire their own in-house designer — and we’re grateful to have been a part of their success story.
 
-You can use Static Generation for many types of pages, including:
+![Eephus beer can design.](/images/lfb/lfb-eephus-1.jpg)
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+![Eephus beer can design.](/images/lfb/lfb-eephus.jpg)
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+![Eephus beer can design.](/images/lfb/lfb-wrigley.jpg)
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+![Eephus beer can design.](/images/lfb/lfb-wrigley-2.jpg)
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+![Blackburne beer bottle design.](/images/lfb/lfb-blackburne-2.jpg)
+
+![Blackburne beer bottle design.](/images/lfb/lfb-blackburne.jpg)
+
+![Sunlight Parl beer bottle design.](/images/lfb/lfb-sunlight-1.jpg)
+
+![Sunlight Park beer bottle design.](/images/lfb/lfb-sunlight.jpg)
+<span class="caption">Various beer can and bottle designs. Photos by Left Field Brewery.</span>
+
+![Wordpress website design 2015.](/images/lfb/lfb-web-4.jpg)
+<span class="caption">Wordpress website design 2015.</span>
+
+![Shopify store design 2015.](/images/lfb/lfb-fanshop-1.jpg)
+
+![Shopify store design 2015.](/images/lfb/lfb-fanshop-2.jpg)
+<span class="caption">Custom Shopify storefront 2019.</span>
+
+![Coaster design showing the current beer lineup from 2014.](/images/lfb/lfb-coaster.jpg)
+<span class="caption">Coaster deisgn 2014.</span>
