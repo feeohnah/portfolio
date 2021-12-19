@@ -16,3 +16,6 @@ Daniel wanted to update his website and create a responsive experience while mai
 
 ![A single artist page with the ability toggle between their work, cv and exhibitions.](/images/dfg/dfg-iris.jpg)
 <span class="caption">Various sections of the website on desktop.</span>
+
+![A single artist page with the ability toggle between their work, cv and exhibitions.](/images/dfg/dfg-mobile.jpg)
+<span class="caption">Various sections of the website on mobile.</span>

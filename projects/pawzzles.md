@@ -1,20 +1,11 @@
 ---
 title: 'Pawzzles'
 description: 'Wooden puzzles for cats that promote mental and physical activity and raise money for animal welfare.'
-roles: 'Co-founder, Branding, Copywriting, Illustration, Product Design, Photography, Product Creation'
+roles: 'Co-founder, Branding, Copywriting, Illustration, Product Design & Creation, Photography'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+A “pandemic-project”, my partner Matt and I started Pawzzles in 2020 as a fun way to repurpose material that would otherwise have gone to waste — wood veneer offcuts from our other business, Fondfolio where we make collaborative memory books.
 
-You can use Static Generation for many types of pages, including:
+Sometimes your cat wants attention when you have a meeting, or are otherwise unavailable. In these cases, a Pawzzle is a great way to focus that energy and engage their natural hunting instincts — it’s like a frustration reduction box!
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
-
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
-
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
-
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+This is in no way a money-making venture — we donate 10% of each sale to animal welfare initiatives and give to a combination of local cat-based charities, such as the Toronto Cat Rescue (where we adopted our cat Minou), and the Effective Altruism Animal Welfare Fund.

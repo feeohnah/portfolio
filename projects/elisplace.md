@@ -4,17 +4,16 @@ description: 'Canada’s first therapeutic farm supporting people who suffer fro
 roles: 'UI/UX Design, Copywriting'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+Eli’s Place wanted to bring more consistency to their online presence while maintaining a bright, energetic and nurturing feel. This work included creating a UI library of reusable components — from buttons and icons to page sections — for their website and promotional materials. Where necessary, I also provided guidance on copywriting and content.
 
-You can use Static Generation for many types of pages, including:
+![Desktop homepage mockup for elisplace.org](/images/elisplace/EP-Desktop-Home.png)
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+![Banner and testimonial page sections on desktop for elisplace.org.](/images/elisplace/EP-Desktop-Testimonial.png)
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+![Newsletter signup, blog, CTA and footer page sections for elisplace.org.](/images/elisplace/EP-Desktop-Footer.png)
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+![Feature section for an interior page on elisplace.org. Each feature has a corresponding forrest-green icon in a line-based style with a pale green background.](/images/elisplace/EP-Desktop-GettingToOpenDoors.png)
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+![Three mobile screens showing the navigation, homepage and FAQ page for elisplace.org.](/images/elisplace/EP-Mobile.jpg)
+
+<span class="caption">Desktop and mobile sections for the Eli’s Place website.</span>
