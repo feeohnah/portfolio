@@ -2,6 +2,7 @@
 title: 'Pawzzles'
 description: 'Wooden puzzles for cats that promote mental and physical activity and raise money for animal welfare.'
 roles: 'Co-founder, Branding, Copywriting, Illustration, Product Design & Creation, Photography'
+dates: '2020 - Present'
 ---
 
 A “pandemic-project”, my partner Matt and I started [Pawzzles](https://pawzzles.cat/) in 2020 as a fun way to repurpose material that would otherwise have gone to waste — wood veneer offcuts from our other business, [Fondfolio](https://fondfolio.com/) where we make collaborative memory books.

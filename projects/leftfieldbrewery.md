@@ -2,9 +2,10 @@
 title: 'Leftfield Brewery'
 description: 'Baseball-inspired brewers of flavourful craft beers.'
 roles: 'UI/UX Design, Branding, Packaging Design, Illustration'
+dates: '2013 - Present'
 ---
 
-Mark and Mandy Murphy approach Matt and I in 2013 to expand their branding, create product labels for their very first 3 beers and design and build a website. Over the years we designed more labels and created a custom Shopify store so they could start selling beer online — they were one of the first Breweries in Toronto to do so! We’re so happy to see how much Left Field has grown since then — enough to hire their own in-house designer — and we’re grateful to have been a part of their success story.
+Mark and Mandy Murphy approached my partner Matt and I in 2013 to expand their branding, create product labels for their very first 3 beers and design and build a website. Over the years we designed more labels and created a custom Shopify store so they could start selling beer online — they were one of the first Breweries in Toronto to do so! We’re so happy to see how much Left Field has grown since then — enough to now hire their own in-house designer — and we’re grateful to have been a part of their success story.
 
 ![Eephus beer can design.](/images/lfb/lfb-eephus-1.jpg)
 

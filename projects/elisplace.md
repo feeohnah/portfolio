@@ -2,6 +2,7 @@
 title: 'Eli’s place'
 description: 'Canada’s first therapeutic farm supporting people who suffer from mental illness.'
 roles: 'UI/UX Design, Copywriting'
+dates: '2021'
 ---
 
 Eli’s Place wanted to bring more consistency to their online presence while maintaining a bright, energetic and nurturing feel. This work included creating a UI library of reusable components — from buttons and icons to page sections — for their website and promotional materials. Where necessary, I also provided guidance on copywriting and content.

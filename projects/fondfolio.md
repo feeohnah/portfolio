@@ -2,6 +2,7 @@
 title: 'Fondfolio'
 description: 'Handmade books designed to preserve memories by collecting thoughtful words and stories from loved ones.'
 roles: 'Co-founder, Branding, Copywriting, UI/UX Design, Product Design & Creation, Photography'
+dates: '2015 - Present'
 ---
 
 When my friend Tyler turned 30, my partner Matt and I helped his wife collect words from all his friends and family and together we made a book. We expected it would be fun, but didn’t anticipate the delight it generated, not just for Tyler, but for everyone involved. This joyful experience was the inspiration for [Fondfolio](https://fondfolio.com/). Since our launch in 2015, our mission has been to facilitate meaningful gift giving for special moments and relationships around the world.
@@ -28,7 +29,7 @@ We continue to be delighted and encouraged by the responses from our customers.
 
 ![A screenshot from our web app showing the details edit screen where the title and questions of the Fondfolio can be updated.](/images/fondfolio/ff-app-1.png)
 
-<p class="caption">Shots from our web app where users manage their Fondfolios, including editing the questions and contributions.</p>
+<p class="caption">Shots from our web app where users manage their Fondfolios — edit the questions and contributions.</p>
 
 ![The homepage of our marketing website.](/images/fondfolio/ff-website-1.png)
 

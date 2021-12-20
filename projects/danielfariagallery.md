@@ -2,6 +2,7 @@
 title: 'Daniel Faria Gallery'
 description: 'Showcasing work from contemporary Canadian and international artists.'
 roles: 'UI/UX Design, Web Development'
+dates: '2018'
 ---
 
 Daniel wanted to update his website and create a responsive experience while maintaining a minimal aesthetic that prioritizes the work of his artists.

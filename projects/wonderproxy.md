@@ -2,9 +2,10 @@
 title: 'Wonderproxy'
 description: 'A handy tool for reliable localization testing.'
 roles: 'UI/UX Design, Branding'
+dates: '2019'
 ---
 
-Wonderproxy had a clear idea of who they were and the value they provided but needed a visual identity that communicated those values cohesively. I updated their logo and created a set of brand guidelines. I also created a starting set of supporting graphics and some initial website layouts.
+Wonderproxy had a clear idea of who they were and the value they provided, but required a visual identity that communicated those values cohesively. I updated their logo and created a set of brand guidelines and various applications including a starting set of supporting graphics and some initial website layouts.
 
 <blockquote>“I'm so glad we found Fiona and were able to work with her to build our brand identity. Previously we’d worked with a series of designers, we were happy with their work (it looked good!) but things were never cohesive. Now we don't just have a great logo, we have an entire set of brand guidelines that can guide all our work, and allow more members of our team to build productively within it. Working with Fiona was a breeze, and I'm incredibly satisfied with what we built together. We'll be able to use it for years.”<br>
 — Paul Reinheimer, Co-founder Wonderproxy

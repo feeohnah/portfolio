@@ -2,7 +2,7 @@
 title: 'CanadaHelps'
 description: 'A fundraising platform for Canadian charities.'
 roles: 'UI/UX Design, Graphic design, Illustration, Animation'
-dates: 2015 - Present
+dates: '2015 - Present'
 ---
 
 Working with the CanadaHelps team for the better part of a decade I’ve helped expand and improve the UI of their web app for both donor and charity users.

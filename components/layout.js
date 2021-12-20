@@ -16,13 +16,13 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <link
           rel="preload"
-          href="/fonts/SuisseWorks-BookItalic-WebS.woff"
+          href="/fonts/FrancaBook.woff"
           as="font"
           crossOrigin=""
         />
         <link
           rel="preload"
-          href="/fonts/SuisseWorks-Book-WebS.woff"
+          href="/fonts/FrancaBookItalic.woff"
           as="font"
           crossOrigin=""
         />
