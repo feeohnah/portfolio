@@ -33,7 +33,8 @@ export default function Home({ allProjectsData }) {
             <a>Pawzzles</a>
           </Link>{' '}
           — handmade puzzles for cats (using offcuts from the books). So I’m
-          either designing, making books or building cat toys :)
+          either designing, making books or building cat toys :) I’d rather be
+          among trees.
         </p>
       </section>
       <section className={utilStyles.headingMd}>
