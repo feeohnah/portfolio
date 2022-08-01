@@ -32,9 +32,13 @@ export default function Home({ allProjectsData }) {
           <Link href="https://pawzzles.cat/">
             <a>Pawzzles</a>
           </Link>{' '}
-          — handmade puzzles for cats (using offcuts from the books). So I’m
-          either designing, making books or building cat toys :) I’d rather be
-          among trees.
+          — puzzles for cats (using offcuts from the books). So I’m either
+          designing, making books or building cat toys :) Lately I’ve also been
+          guiding{' '}
+          <Link href="https://forestbathingberlin.com/">
+            <a>forest bathing walks</a>
+          </Link>
+          .
         </p>
       </section>
       <section className={utilStyles.headingMd}>
