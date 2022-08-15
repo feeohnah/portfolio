@@ -33,16 +33,26 @@ export default function Home({ allProjectsData }) {
             <a>Pawzzles</a>
           </Link>{' '}
           — puzzles for cats (using offcuts from the books). So I’m either
-          designing, making books or building cat toys :) Lately I’ve also been
+          designing, making books or building cat toys ☺ Lately I’ve also been
           guiding{' '}
           <Link href="https://forestbathingberlin.com/">
             <a>forest bathing walks</a>
-          </Link>
-          .
+          </Link>{' '}
+          in Berlin.
         </p>
       </section>
       <section className={utilStyles.headingMd}>
         <h2 className={utilStyles.headingSection}>Contact</h2>
+        <ul className={`${utilStyles.list} ${utilStyles.columns}`}>
+          <li className={`${utilStyles.listItemSubdued} ${utilStyles.column}`}>
+            Résumé
+          </li>
+          <li className={`${utilStyles.listItem} ${utilStyles.column}`}>
+            <Link href="/FionaMcDougall-resume.pdf">
+              <a>Download</a>
+            </Link>
+          </li>
+        </ul>
         <ul className={`${utilStyles.list} ${utilStyles.columns}`}>
           <li className={`${utilStyles.listItemSubdued} ${utilStyles.column}`}>
             Email
