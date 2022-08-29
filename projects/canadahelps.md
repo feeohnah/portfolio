@@ -26,4 +26,7 @@ I’ve also created various assets such as icons, illustrations, and animations.
 
 ![Three mobile screens showing the first 3 steps of the donation process from the perspective of a donor user.](/images/canadahelps/cd-cdfWidget-2.png)
 
-<p class="caption">UI for the custom donation form widget used by charities to accept donations on any website.</p>
+![Desktop screen showing the first step of the embedded donation form on a charity’s website.](/images/canadahelps/cd-cdfWidget-3.jpg)
+![Desktop screen showing the second steps of the embedded donation form on a charity’s website.](/images/canadahelps/cd-cdfWidget-4.jpg)
+
+<p class="caption">UI design for embedded and modal versions of the Custom Donation Form Widget used by charities to accept donations on any website, showing various customization options.</p>

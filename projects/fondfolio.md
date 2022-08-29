@@ -7,7 +7,9 @@ dates: '2015 - Present'
 
 When my friend Tyler turned 30, my partner Matt and I helped his wife collect words from all his friends and family and together we made a book. We expected it would be fun, but didn’t anticipate the delight it generated, not just for Tyler, but for everyone involved. This joyful experience was the inspiration for [Fondfolio](https://fondfolio.com/). Since our launch in 2015, our mission has been to facilitate meaningful gift giving for special moments and relationships around the world.
 
-Fondfolio is a self-funded venture between myself and my partner [Matt](https://iammatt.ca/). He does most of the web development work and is deeply involved with the design as well as every little thing that I need a second opinion on. This project would not exist without his efforts.
+Fondfolio is a self-funded venture between myself and my partner Matt (he handles any major web development and is my sounding board for all important decisions). I make each book by hand and manage all of the day to day operations as well as planning for and thinking about the future.
+
+We’re not a big corporation, nor do we aspire to be — few things get better with scale. Maybe one day I’ll have a modest team, but for now I’m okay with my impact being small — I really enjoy the time that goes into creating a handmade product.
 
 We continue to be delighted and encouraged by the responses from our customers.
 
