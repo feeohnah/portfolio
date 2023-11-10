@@ -1,7 +1,7 @@
 ---
 title: 'Wonderproxy'
 description: 'A handy tool for reliable localization testing.'
-roles: 'UI/UX Design, Branding'
+roles: 'UI/UX Design, Branding, Logo Design'
 dates: '2019'
 ---
 
