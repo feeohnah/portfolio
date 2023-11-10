@@ -7,7 +7,7 @@ import Link from 'next/link'
 const name = 'Fiona McDougall'
 const role = 'Designer & Bookmaker'
 const location = 'Berlin, Toronto'
-export const siteTitle = 'Selected work 2016 - 2021'
+export const siteTitle = 'Selected work 2016 - 2023'
 
 export default function Layout({ children, home }) {
   return (
@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
         />
         <meta
           name="description"
-          content="Selected design work of Fiona McDougall 2016 - 2021"
+          content="Selected design work of Fiona McDougall 2016 - 2023"
         />
         <meta property="og:image" content={`/og.png`} />
         <meta name="og:title" content={siteTitle} />
