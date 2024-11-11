@@ -55,10 +55,13 @@ img {
   max-width: 100%;
   display: block;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+  border-radius: 8px;
+  margin-top: 16px;
 }
 
 video {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+  border-radius: 8px;
 }
 
 article p {
